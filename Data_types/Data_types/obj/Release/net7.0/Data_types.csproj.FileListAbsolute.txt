@@ -1,0 +1,5 @@
+C:\Users\hp\Desktop\C# practice devskill\Git practice\C-Sharp practice\Data_types\Data_types\obj\Release\net7.0\Data_types.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# practice devskill\Git practice\C-Sharp practice\Data_types\Data_types\obj\Release\net7.0\Data_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C# practice devskill\Git practice\C-Sharp practice\Data_types\Data_types\obj\Release\net7.0\Data_types.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C# practice devskill\Git practice\C-Sharp practice\Data_types\Data_types\obj\Release\net7.0\Data_types.AssemblyInfo.cs
+C:\Users\hp\Desktop\C# practice devskill\Git practice\C-Sharp practice\Data_types\Data_types\obj\Release\net7.0\Data_types.csproj.CoreCompileInputs.cache
