@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp practice\\Data_types\\Data_types\\Data_types.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp-practice\\Data_types\\Data_types\\Data_types.csproj",
       "projectName": "Data_types",
-      "projectPath": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp practice\\Data_types\\Data_types\\Data_types.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp-practice\\Data_types\\Data_types\\Data_types.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp practice\\Data_types\\Data_types\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp-practice\\Data_types\\Data_types\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
