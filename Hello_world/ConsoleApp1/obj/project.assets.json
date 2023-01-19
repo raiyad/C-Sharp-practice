@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp practice\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp practice\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp-practice\\Hello_world\\ConsoleApp1\\Hello_world.csproj",
+      "projectName": "Hello_world",
+      "projectPath": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp-practice\\Hello_world\\ConsoleApp1\\Hello_world.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp practice\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\C# practice devskill\\Git practice\\C-Sharp-practice\\Hello_world\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
